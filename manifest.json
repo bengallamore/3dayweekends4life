@@ -1,0 +1,17 @@
+{
+  "name": "4-Day Week Finder",
+  "short_name": "4-Day Finder",
+  "description": "Aggregated search for 4-day work week, remote, and part-time jobs.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#020617",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
